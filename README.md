@@ -1,16 +1,10 @@
-# app_conversor_moeda
+## Conversor de Moedas
 
-A new Flutter project.
+Projeto criado no curso de Desenvolvimento de Aplicativos para Smartphones na ETEC Sebrae
 
-## Getting Started
+##### O aplicativo utiliza a API do HG Finance, onde os valores das moedas são extraídos em tempo real.
 
-This project is a starting point for a Flutter application.
+<p align= center>
+<img src="assets/layout-app.jpg" width="300" alt="Layout App">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
